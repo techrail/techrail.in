@@ -1,0 +1,184 @@
+# main links
+main:
+  - title: "About Us"
+    url: "/about/"
+
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+algorithms:
+  - title: Algorithms - Getting Started
+    children:
+      - title: "Introduction"
+        url: "/algorithms/"
+      - title: "Order of Learning"
+        url: "/algorithms/order-of-learning"
+      - title: "Language of choice"
+        url: "/algorithms/language-of-choice"
+  - title: Data Structures
+    children:
+      - title: "DS - Introduction"
+        url: "/algorithms/what-are-data-structures"
+      - title: "Arrays"
+        url: "/algorithms/data-structures/arrays"
+      - title: "Stacks"
+        url: "/algorithms/data-structures/stacks"
+      - title: "Queues"
+        url: "/algorithms/data-structures/queues"
+      - title: "Double-Ended Queues"
+        url: "/algorithms/data-structures/deques"
+      - title: "Circular Queues"
+        url: "/algorithms/data-structures/circular-queues"
+      - title: "Linked List"
+        url: "/algorithms/data-structures/linked-lists"
+      - title: "Doubly Linked List"
+        url: "/algorithms/data-structures/doubly-linked-lists"
+      - title: "Hash Tables"
+        url: "/algorithms/data-structures/hash-tables"
+      - title: "Matrices"
+        url: "/algorithms/data-structures/matrices"
+      - title: "Graphs"
+        url: "/algorithms/data-structures/graphs"
+      - title: "Trees"
+        url: "/algorithms/data-structures/trees"
+      - title: "Sets"
+        url: "/algorithms/data-structures/sets"
+
+zsh:
+  - title: Introduction
+    children:
+      - title: "What is ZSH?"
+        url: "/zsh/"
+      # - title: ""
+
+golang:
+  - title: Intro
+    children:
+      - title: "Introducing go"
+        url: "/golang/"
+
+rails_deployment:
+  - title: Rails Deployment
+    children:
+      - title: "Why this guide?"
+        url: "/rails-deployment/"
+      - title: "Parts of the app"
+        url: "/rails-deployment/parts-of-a-rails-production-app/"
+      - title: "Tool Selection"
+        url: "/rails-deployment/tool-selection/"
+  - title: Installating Tools (on Server)
+    children:
+      - title: "Base system"
+        url: "/rails-deployment/installing-base-system/"
+      - title: "Ruby version manager (rbenv)"
+        url: "/rails-deployment/installing-rbenv/"
+      - title: "Ruby (using rbenv)"
+        url: "/rails-deployment/installing-ruby-using-rbenv/"
+      - title: "Ruby on Rails"
+        url: "/rails-deployment/installing-ruby-on-rails/"
+  - title: Configuration
+    children:
+      - title: Configuring Nginx (on Server)
+        url: "/rails-deployment/configuring-nginx/"
+      - title: Configuring our Rails app
+        url: "/rails-deployment/configuring-our-rails-app/"
+  - title: Deployment
+    children:
+      - title: "The Deployment Process"
+        url: "/rails-deployment/deployment-process/"
+      - title: "Deploying our app"
+        url: "/rails-deployment/deploying-our-ruby-on-rails-app/"
+  - title: Miscellaneous
+    children:
+      - title: "Possible Caveats"
+        url: "/rails-deployment/possible-caveats/"
+      - title: "Is Ignorance Bliss?"
+        url: "/rails-deployment/years-of-experience-and/"
+
+configuring_kong_11:
+  - title: Introduction to Kong
+    children:
+      - title: "About this Guide"
+        url: "/configuring-kong/1.1/"
+      - title: "API Gateways and Kong"
+        url: "/configuring-kong/1.1/what-is-an-api-gateway/"
+      - title: "Why Kong?"
+        url: "/configuring-kong/1.1/why-kong-and-other-options/"
+  - title: Understanding Kong
+    children:
+      - title: "Basic Concepts in Kong"
+        url: "/configuring-kong/1.1/basic-concepts-in-kong/"
+      - title: "Prerequisites"
+        url: "/"
+  - title: Miscellaneous
+    children:
+      - title: "What is an API?"
+        url: "/configuring-kong/1.1/what-is-an-api/"
+
+php7:
+  - title: PHP 7
+    children:
+      - title: "Introduction"
+        url: "/php7/"
+      - title: "Advantages"
+        url: "/php7/advantages-of-php"
+      - title: "Installation"
+        url: "/php7/installing-php7-on-linux-ubuntu-macos-and-windows"
+
+swift:
+  - title: Swift
+    children:
+      - title: "Introduction"
+        url: "/swift/"
+
+python:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+
+  - title: Customization
+    children:
+      - title: "Configuration"
+        url: /docs/configuration/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
+
+  - title: Content
+    children:
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+      - title: "Working with Collections"
+        url: /docs/collections/
+      - title: "Helpers"
+        url: /docs/helpers/
+      - title: "Utility Classes"
+        url: /docs/utility-classes/
+
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/
