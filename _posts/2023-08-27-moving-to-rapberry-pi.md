@@ -20,4 +20,4 @@ Recently I discovered the way using which I could just host my websites right fr
 
 In addition, since this blog is to serve as a shared blog among the members of the [Techrail GitHub Org](https://github.com/techrail), I thought I could just setup a git workflow with a cron job to make periodic updates (much the same way GitHub pages behaves). I think the git script is ready but we still need to test if the cron works. 
 
-Test 4
+Test 5
